@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Дополнительные стили */
+.btn {
+  @apply bg-zinc-800 text-white px-3 py-1 rounded flex items-center hover:bg-zinc-700 transition;
+}

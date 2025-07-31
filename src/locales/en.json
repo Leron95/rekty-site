@@ -1,0 +1,61 @@
+{
+  "subtitle": "The meme token for the brave.",
+  "buy": {
+    "button": "Buy",
+    "metamask": "Install MetaMask"
+  },
+  "tokenomics": {
+    "title": "Tokenomics",
+    "totalSupply": "Total Supply",
+    "community": "Community",
+    "team": "Team",
+    "liquidity": "Liquidity",
+    "marketing": "Marketing"
+  },
+  "howToBuy": {
+    "title": "How to Buy",
+    "step1": "Download MetaMask and create a wallet.",
+    "step2": "Buy ETH and send it to your wallet.",
+    "step3": "Swap ETH for REKTY on Uniswap."
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "phase1": "Launch website and token",
+    "phase2": "1,000 holders",
+    "phase3": "Marketing campaign",
+    "phase4": "CEX listing",
+    "phase5": "Governance launch"
+  },
+  "faq": {
+    "title": "FAQ",
+    "questions": [
+      {
+        "q": "What is REKTY?",
+        "a": "REKTY is a meme token for fun and community."
+      },
+      {
+        "q": "Where can I buy it?",
+        "a": "You can buy it on Uniswap."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Your Name",
+    "email": "Your Email",
+    "message": "Your Message",
+    "send": "Send"
+  },
+"hero": {
+  "title": "Get REKTY Now",
+  "description": "Buy REKTY — the ultimate meme token for fun, chaos, and community. 100% decentralized.",
+  "cta": "Buy on Uniswap"
+},
+"whitepaper": {
+  "title": "Whitepaper",
+  "description": "Learn everything about the REKTY ecosystem, tokenomics, and roadmap in our official Whitepaper.",
+  "download": "Download Whitepaper (PDF)"
+}
+
+
+}

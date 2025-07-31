@@ -1,0 +1,49 @@
+{
+  "subtitle": "为勇敢者打造的迷因代币。",
+  "buy": {
+    "button": "购买",
+    "metamask": "安装 MetaMask 钱包"
+  },
+  "tokenomics": {
+    "title": "代币经济学",
+    "totalSupply": "总供应量",
+    "community": "社区",
+    "team": "团队",
+    "liquidity": "流动性",
+    "marketing": "市场营销"
+  },
+  "howToBuy": {
+    "title": "如何购买",
+    "step1": "下载 MetaMask 并创建钱包。",
+    "step2": "购买 ETH 并转入您的钱包。",
+    "step3": "在 Uniswap 上用 ETH 交换 REKTY。"
+  },
+  "roadmap": {
+    "title": "路线图",
+    "phase1": "启动网站和代币",
+    "phase2": "达到1,000个持有者",
+    "phase3": "市场推广活动",
+    "phase4": "上线中心化交易所",
+    "phase5": "启动治理机制"
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": [
+      {
+        "q": "什么是 REKTY？",
+        "a": "REKTY 是一个为了乐趣和社区而创建的迷因代币。"
+      },
+      {
+        "q": "在哪里可以买到？",
+        "a": "您可以在 Uniswap 上购买。"
+      }
+    ]
+  },
+  "contact": {
+    "title": "联系我们",
+    "name": "您的名字",
+    "email": "您的邮箱",
+    "message": "您的信息",
+    "send": "发送"
+  }
+}
