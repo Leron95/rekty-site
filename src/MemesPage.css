@@ -1,0 +1,22 @@
+.memes-page {
+  padding: 2rem;
+  text-align: center;
+}
+
+.memes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.meme-card img {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.meme-card p {
+  margin-top: 0.5rem;
+  font-weight: bold;
+}
